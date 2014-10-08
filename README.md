@@ -3,6 +3,7 @@
 
 cocos2d-x
 =========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/fireyang/cocos2d-x?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/cocos2d/cocos2d-x.png?branch=v3)](https://travis-ci.org/cocos2d/cocos2d-x)
 [![Build Status](https://travis-ci.org/cocos-travis-mac/cocos2d-x.png?branch=v3)](https://travis-ci.org/cocos-travis-mac/cocos2d-x)
